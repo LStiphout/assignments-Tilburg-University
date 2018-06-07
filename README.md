@@ -11,3 +11,7 @@ This repository contains my assingments
 [Assignment5 week 6](https://github.com/LStiphout/assignments/blob/master/Graded_assignment1%20(1).ipynb)
 
 [Assignment6 week 7](https://github.com/LStiphout/assignments/blob/master/Graded_assignment_2%20(1).ipynb)
+
+[Exam Phyton](https://github.com/LStiphout/assignments/blob/master/exam_student_python_final.ipynb)
+
+[Exam R]()
