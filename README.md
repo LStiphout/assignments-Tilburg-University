@@ -15,3 +15,6 @@ This repository contains my assingments
 [Exam Phyton](https://github.com/LStiphout/assignments/blob/master/exam_student_python_final.ipynb)
 
 [Exam R](https://github.com/LStiphout/assignments/blob/master/Exam_student_R_Final.ipynb)
+
+
+[Exam Python 21 sep](https://github.com/LStiphout/assignments/blob/master/exam_Sep_21_2018%20(1).ipynb)
