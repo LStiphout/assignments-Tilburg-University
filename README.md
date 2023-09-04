@@ -1,5 +1,5 @@
-# assignments
-This repository contains my assingments
+# assignments Tilburg University introduction to programming.
+This repository contains my assingments for programming for economists
 
 
 [Assignment2](https://github.com/LStiphout/assignments/blob/master/assignment2%20(1)%20(2).ipynb)
